@@ -1,0 +1,20 @@
+body{
+  background-color: rgba(103,228,255,0.66);
+
+}
+header,h4{
+  margin: 10px;
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  font-family: "Bodoni MT Condensed", serif;
+  font-size: 36px;
+  word-spacing: 8px;
+  letter-spacing: 2px;
+}
+header{
+  color: rgb(238, 6, 51);
+}
+h4{
+  color: rgb(196, 174, 4);
+}

@@ -1,0 +1,24 @@
+.products{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 20px;
+}
+.product{
+  padding: 10px;
+  margin: 10px;
+  width: 450px;
+  text-align: center;
+
+}
+.product img{
+  height: auto;
+  width: 200px;
+}
+.price{
+  color: #ff5f5f;
+  font-weight: bold;
+}
+.rating{
+  color: blue;
+}
+
